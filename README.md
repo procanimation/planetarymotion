@@ -3,3 +3,7 @@
 Here you can find demo https://procanimation.github.io/planetarymotion/
 
 This is currently ongoing project so you are not able to find final result.
+
+
+
+Reference:- Here the texture of sun and earth is used from http://planetpixelemporium.com/. 
