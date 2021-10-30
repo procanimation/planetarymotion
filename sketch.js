@@ -15,14 +15,12 @@ function setup() {
 }
 function draw(){
    background(51);
-   //rotateY(xoff);
    sun.show();
-
-   // let rotX = map(sin(xoff), -1, 1, -360, 360);
-   // let rotY = map(sin(xoff), -1, 1, -60, 60);
+   
    let rotZ = map(sin(xoff), -1, 1, -160, 160);
    rotateY(xoff);
-   translate(200, -100, rotZ);
+   rotateX(10);
+   translate(200, 0, rotZ);
    earth.show();
    
    xoff += 0.01;
