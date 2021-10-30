@@ -11,6 +11,8 @@
 
 This is currently ongoing project so you are not able to find final result.
 
+***Orbit Motion***
+Orbital motion occurs whenever an object is moving forward and at the same time is pulled by gravity toward another object. ... The result is a circular or oval path called an orbit, in which one object keeps moving around the other. Because of the relatively great gravity of the sun, Earth orbits the sun.
 
 
 **Reference** :- Here the texture of sun and earth is used from http://planetpixelemporium.com/. 
