@@ -10,7 +10,7 @@ function preload(){
 function setup() {
    createCanvas(640,640, WEBGL);
    sun = new Star(100, suntexture);
-   earth = new Planet(40, earthtexture);
+   earth = new Planet(40, earthtexture, 100);
    xoff = 0;
 }
 function draw(){
