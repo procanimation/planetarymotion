@@ -11,7 +11,8 @@
 
 This is currently ongoing project so you are not able to find final result.
 
-
+What are the 3 types of motion of the Earth?
+The Earth turns (rotation around the polar axis), goes along on its orbit (revolution around the Sun), swings smoothly as un unbalanced spinning top (equinoctial precession).
 
 **Reference** :- Here the texture of sun and earth is used from http://planetpixelemporium.com/. 
 
