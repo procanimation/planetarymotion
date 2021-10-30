@@ -11,7 +11,8 @@
 
 This is currently ongoing project so you are not able to find final result.
 
-
+***Revolution***
+Earth revolves in orbit around the sun in 365 days, 6 hours, 9 minutes with reference to the stars, at a speed ranging from 29.29 to 30.29 km/s. The 6 hours, 9 minutes adds up to about an extra day every fourth year, which is designated a leap year, with the extra day added as February 29th.
 
 **Reference** :- Here the texture of sun and earth is used from http://planetpixelemporium.com/. 
 
