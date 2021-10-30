@@ -24,6 +24,6 @@ function draw(){
    translate(200, 0, rotZ)
    texture(earth);
    sphere(60);
-
-   xoff += 0.01;
+   //reduce the rotion of the x-axis so that it can slowly revole around.
+   xoff += 0.05;
 }
