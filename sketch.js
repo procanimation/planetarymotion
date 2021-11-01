@@ -13,10 +13,12 @@ function preload(){
 }
 function setup() {
    createCanvas(640,640, WEBGL);
+
    center = new p5.Vector(0, 0 ,0);
    sun = new Star(60, suntexture);
    earth = new Planet(30, earthtexture);
    moon = new Satelite(15, moontexture);
+
    xoff = 0;
 }
 function draw(){

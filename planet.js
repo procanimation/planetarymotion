@@ -1,7 +1,8 @@
 class Planet {
-    constructor(size, texture) {
+    constructor(size, texture, rad) {
         this.size = size;
         this.texture = texture;
+
         this.a = random(200, 300);
         this.b = random(100, 200);
     
