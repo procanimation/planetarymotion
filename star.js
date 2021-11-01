@@ -9,7 +9,6 @@ class Star {
         light.normalize()
         pointLight(255, 255, 255, light)
         texture(this.texture);
-        this.rotate();
         sphere(this.size);
     }
 
