@@ -12,7 +12,7 @@ function preload(){
    moontexture = loadImage('./images/moon.jpg');   
 }
 function setup() {
-   createCanvas(640,640, WEBGL);
+   createCanvas(windowWidth, windowHeight, WEBGL);
 
    center = new p5.Vector(0, 0 ,0);
    sun = new Star(60, suntexture);
