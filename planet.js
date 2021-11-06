@@ -24,7 +24,7 @@ class Planet {
         this.position.x  = (this.a*cos(this.theta));
         this.position.y = 0;
         this.position.z =  (this.b*sin(this.theta));
-        this.theta += 0.01;
+        this.theta -= 0.01;
         // print(this.position)
     }
     revolve(){
