@@ -17,13 +17,13 @@ class Satelite {
     }
 
     rotate(){
-        rotateY(millis() / 100);
+        rotateY(millis() / 1000);
     }
     updatePosition(){
         this.position.x  = (this.a*cos(this.theta));
         this.position.y = 0;
         this.position.z =  (this.b*sin(this.theta));
-        this.theta += 0.03;
+        this.theta -= 0.03;
         // print(this.position)
     }
     revolve(planet){
